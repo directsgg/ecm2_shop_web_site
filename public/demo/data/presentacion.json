@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "imagen": "/demo/images/presentacion/presentacion1.jpg",
+            "titulo": "Los mejores componentes en audio",
+            "descripcion" : "Variedad de instrumentos musicales, bocinas y todo tipo de accesorios los encuentras con nosotros.",
+            "tituloAccion": "COMPRAR",
+            "redireccion" : "#mejoresproductos",
+            "orden" : 0
+        },  
+        {
+            "imagen": "/demo/images/presentacion/presentacion2.jpg",
+            "titulo": "¡Qué viva la musica!",
+            "descripcion" : "Queremos que expreses tu talento, y para eso creamos un espacio donde sea fácil comprar. Envíos a toda Guatemala.",
+            "tituloAccion": "Cómo Comprar",
+            "redireccion" : "/preguntas-frecuentes#faq",
+            "orden" : 1
+        },  
+        {
+            "imagen": "/demo/images/presentacion/presentacion3.jpg",
+            "titulo": "Cantamos porque es nuestra pasión",
+            "descripcion" : "No busques más con nosotros lo encuentras, y si no lo traemos por ti.",
+            "tituloAccion": "tienda",
+            "redireccion" : "/tienda",
+            "orden" : 2
+        },  
+        {
+            "imagen": "/demo/images/presentacion/presentacion4.jpg",
+            "titulo": "¿Deseas comenzar un nuevo grupo?",
+            "descripcion" : "Contamos con descuentos especiales al comprar tres o más instrumentos.",
+            "tituloAccion": "contáctanos",
+            "redireccion" : "/contacto",
+            "orden" : 3
+        } 
+    ] 
+}

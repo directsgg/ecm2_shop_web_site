@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "imagen": "/demo/images/categoria/bocina.jpg",
+            "titulo": "Bocinas",
+            "redireccion" : "#bocinas",
+            "orden" : 0
+        },  
+        {
+            "imagen": "/demo/images/categoria/microfono.jpeg",
+            "titulo": "Microfonos",
+            "redireccion" : "#microfonos",
+            "orden" : 1
+        },  
+        {
+            "imagen": "/demo/images/categoria/consola.jpg",
+            "titulo": "Consola de audio",
+            "redireccion" : "#consolasdeaudio",
+            "orden" : 2
+        },  
+        {
+            "imagen": "/demo/images/categoria/guitarra.jpg",
+            "titulo": "Guitarras",
+            "redireccion" : "#guitarras",
+            "orden" : 3
+        },
+        {
+            "imagen": "/demo/images/categoria/bocina.jpg",
+            "titulo": "Bocinas",
+            "redireccion" : "#bocinas",
+            "orden" : 4
+        } 
+    ] 
+}

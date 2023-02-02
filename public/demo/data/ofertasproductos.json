@@ -1,0 +1,35 @@
+{
+    "data": [
+        {   
+            "id": "1001","code": "nvklal433",
+            "name": "Sintetizador KORG 4 canales","description": "Product Description",
+            "image": "/demo/images/ofertas/sintetizador.jpg","price": 599.99,"category": "Accessories",
+            "quantity": 61,"inventoryStatus": "LOWSTOCK","rating": 4
+        },
+        {   
+            "id": "1000","code": "f230fh0g3",
+            "name": "Modulo de sonido grabable","description": "Product Description",
+            "image": "/demo/images/ofertas/modulo.jpg","price": 13.99,"category": "Accessories",
+            "quantity": 24,"inventoryStatus": "INSTOCK","rating": 5
+        },
+        {
+            "id": "1002","code": "zz21cz3c1",
+            "name": "Monitor electronico compacto","description": "Product Description",
+            "image": "/demo/images/ofertas/monitor.jpg","price": 290,"category": "Fitness",
+            "quantity": 2,"inventoryStatus": "LOWSTOCK","rating": 3
+        },
+        {
+            "id": "1003","code": "244wgerg2",
+            "name": "Interfaz de audio","description": "Product Description",
+            "image": "/demo/images/ofertas/interfaz.jpg","price": 78.47,"category": "Clothing",
+            "quantity": 25,"inventoryStatus": "OUTOFSTOCK","rating": 5
+        },
+        {
+            "id": "1004","code": "h456wer53",
+            "name": "Guitarra de madera","description": "Product Description",
+            "image": "/demo/images/ofertas/guitarra.jpg","price": 115.59,"category": "Accessories",
+            "quantity": 73,"inventoryStatus": "OUTOFSTOCK","rating": 4
+        }
+    ]
+}
+    
